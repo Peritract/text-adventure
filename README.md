@@ -1,7 +1,7 @@
 # text_adventure
 A text adventure written in Python
 
-[![Actions Status](https://github.com/peritract/text_adventure/workflows/Python%20package/badge.svg)](https://github.com/peritract/text_adventure/actions)
+[![Actions Status](https://github.com/peritract/text_adventure/workflows/Tests/badge.svg)](https://github.com/peritract/text_adventure/actions)
 
 ### Installation
 
