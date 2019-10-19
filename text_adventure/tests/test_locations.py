@@ -1,6 +1,6 @@
-"""This module contains tests for the locations.py file."""
+"""This module contains tests for the elements.locations.py file."""
 
-from .locations import Location
+from text_adventure.elements.locations import Location
 
 
 def test_location_constructor():
