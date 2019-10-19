@@ -12,5 +12,5 @@ def test_location_constructor():
     
 def test_location_string():
     """Tests that Locations __str__ method returns correctly."""
-    test_obj = Location("Hovel", "a dingy room", (0,0,0))
-    assert test_obj.__str__() == "Hovel - a dingy room"
+    test_obj = Location("Hovel", "a drab and dingy room", (0,0,0))
+    assert test_obj.__str__() == "Hovel - a drab and dingy room"
