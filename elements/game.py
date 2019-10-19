@@ -1,4 +1,4 @@
-"""This file contains the implementation of the Game class"""
+"""This file contains the implementation of the Game class."""
 
 
 class Game():

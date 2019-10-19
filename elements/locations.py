@@ -1,4 +1,4 @@
-"""Classes for in-game locations."""
+"""This file contains the implementations of in-game locations."""
 
 
 class Location():
